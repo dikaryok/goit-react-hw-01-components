@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dikaryok/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
+    "main.js": "/dikaryok/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
+    "index.html": "/dikaryok/goit-react-hw-01-components.git/index.html",
+    "main.7acaea2f.css.map": "/dikaryok/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/dikaryok/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
